@@ -23,4 +23,4 @@ Git pitchの使い方
         
 - 記事に対応する[レポジトリ](https://github.com/sahara-ooga/android-data-binding-sample)をGithubに作った
     - 記事のステップごとにレポジトリのコミットが対応するように
-        - Githubの差分の表示がわかりやすい
+        - Githubの差分の表示がわかりやすい?
